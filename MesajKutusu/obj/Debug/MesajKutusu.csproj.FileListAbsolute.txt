@@ -1,0 +1,11 @@
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ikinciproje\MesajKutusu\MesajKutusu\bin\Debug\MesajKutusu.exe.config
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ikinciproje\MesajKutusu\MesajKutusu\bin\Debug\MesajKutusu.exe
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ikinciproje\MesajKutusu\MesajKutusu\bin\Debug\MesajKutusu.pdb
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ikinciproje\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.csproj.AssemblyReference.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ikinciproje\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ikinciproje\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.Form1.resources
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ikinciproje\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.Properties.Resources.resources
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ikinciproje\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.csproj.GenerateResource.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ikinciproje\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.csproj.CoreCompileInputs.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ikinciproje\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.exe
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ikinciproje\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.pdb
